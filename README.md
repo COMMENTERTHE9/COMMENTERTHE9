@@ -201,12 +201,7 @@ Source (.cx)
 </td>
 <td width="50%">
 
-**Beyond Code**
-- Universe physics as a design constraint (TSG)
-- Autologous neural interfaces (Horizon Labs)
-- Post-collapse governance structures
-- Experimental fiction with intentional formal deterioration
-- What Brazilian Jiu-Jitsu and compiler design have in common
+
 
 </td>
 </tr>
@@ -222,7 +217,7 @@ Source (.cx)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0a84ff&fire=ff6b35&currStreakLabel=0a84ff" />
+  <img src="https://streak-stats.demolab.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0a84ff&fire=ff6b35&currStreakLabel=0a84ff" />
 </div>
 
 ---
