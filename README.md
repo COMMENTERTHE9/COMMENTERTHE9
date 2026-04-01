@@ -11,9 +11,7 @@
 
 ### COMMENTERTHE9
 
-**Compiler engineer. Language designer. Systems builder.**
-
-*Turning ideas that don't exist yet into things that compile.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=0A84FF&center=true&vCenter=true&multiline=true&width=620&height=70&lines=Compiler+engineer.+Language+designer.+Systems+builder.;No+GC.+No+pauses.+No+abstractions+you+didn%27t+ask+for.;Turning+ideas+that+don%27t+exist+yet+into+things+that+compile." alt="Typing SVG" />
 
 <br/>
 
@@ -87,8 +85,8 @@ Test matrix: 78/78 green
 - Custom IR with pretty printer
 - JIT build + CI matrix
 
-**Philosophy:** *Python for adults.*  
-Control without the mess.  
+**Philosophy:** *Python for adults.*
+Control without the mess.
 Performance without the lies.
 
 </td>
@@ -105,7 +103,7 @@ A governed world-change language with a locked spec. Companion to Cx, designed f
 - Header architecture redesign
 - AST complete overhaul
 - GGGX algorithm integration
-- Solid Arithmetic Theory embedded in type system
+- Solid Arithmetic Theory in type system
 
 **Design principle:** The spec is locked. The compiler follows the language — not the other way around.
 
@@ -119,8 +117,8 @@ A governed world-change language with a locked spec. Companion to Cx, designed f
 
 A deterministic evaluation platform for assessing AI model capability — built on real scoring, not vibes.
 
-**Stack:** Leptos · Axum · PostgreSQL · SeaORM · Stripe  
-**Evaluator:** Deterministic Rust engine (no LLM-based scoring)  
+**Stack:** Leptos · Axum · PostgreSQL · SeaORM · Stripe
+**Evaluator:** Deterministic Rust engine (no LLM scoring)
 **Design language:** Industrial. Dark. Monospace. No purple.
 
 > If you can't measure it deterministically, you don't know it.
@@ -186,42 +184,88 @@ Source (.cx)
 
 ## What I Think About
 
-<table>
-<tr>
-<td width="50%">
-
-**Technical**
-- Language design as a philosophical act
-- What it means for a compiler to have a point of view  
-- ABI decisions and their downstream consequences
+- Language design as a philosophical act — compilers have opinions whether you admit it or not
+- What it means for a type system to tell the truth
+- ABI decisions and their downstream consequences across years of code
 - IR design that stays readable under transformation
 - Deterministic evaluation over probabilistic guessing
 - Systems that are correct by construction, not by convention
-
-</td>
-<td width="50%">
-
-
-
-</td>
-</tr>
-</table>
+- Why performance and clarity are not a tradeoff
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=COMMENTERTHE9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMMENTERTHE9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0a84ff&fire=ff6b35&currStreakLabel=0a84ff" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=COMMENTERTHE9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMMENTERTHE9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0a84ff&fire=ff6b35&currStreakLabel=0a84ff" />
+
 </div>
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=COMMENTERTHE9&bg_color=060d21&color=5b8df6&line=1a56db&point=ffffff&area=true&area_color=0d1a4a&hide_border=true&custom_title=COMMENTERTHE9%20%E2%80%94%20Contribution%20Graph" />
+
+</div>
+
+<details>
+<summary>✨ Enable the contribution snake animation (one-time setup)</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then swap the activity graph image above for:
+
+```
+![snake](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/output/github-contribution-grid-snake-dark.svg)
+```
+
+</details>
+
+---
+
+<div align="center">
+
+**COMMENTERTHE9** · Compiler Engineer · Language Designer · Systems Builder
+
+*The goal isn't to make another language. The goal is to make the right one.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-COMMENTERTHE9-0a84ff?style=flat-square&logo=github)](https://github.com/COMMENTERTHE9)
+
+</div>
 <div align="center">
 
 **COMMENTERTHE9** · Compiler Engineer · Language Designer · Systems Builder
