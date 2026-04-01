@@ -198,8 +198,8 @@ Source (.cx)
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=COMMENTERTHE9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMMENTERTHE9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=COMMENTERTHE9&show_icons=true&theme=transparent&hide_border=true&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMMENTERTHE9&layout=compact&theme=transparent&hide_border=true&title_color=0a84ff&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
 
 <br/>
 
