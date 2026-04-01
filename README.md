@@ -211,9 +211,11 @@ Source (.cx)
 
 ## Contribution Activity
 
+## Contribution Activity
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=COMMENTERTHE9&bg_color=060d21&color=5b8df6&line=1a56db&point=ffffff&area=true&area_color=0d1a4a&hide_border=true&custom_title=COMMENTERTHE9%20%E2%80%94%20Contribution%20Graph" />
+![Starry Contributions](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/main/starry-contributions.svg)
 
 </div>
 
