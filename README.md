@@ -198,14 +198,10 @@ Source (.cx)
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=COMMENTERTHE9&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMMENTERTHE9&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
 
 </div>
+
 ---
 
 ## Contribution Activity
