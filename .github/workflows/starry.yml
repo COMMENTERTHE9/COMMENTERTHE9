@@ -1,0 +1,38 @@
+name: Regenerate starry contributions
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_starry.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- starry-contributions.svg; then
+            echo "No change; skipping commit."
+            exit 0
+          fi
+          V=$(sha256sum starry-contributions.svg | cut -c1-8)
+          sed -i -E "s|(starry-contributions\.svg)(\?v=[0-9a-f]{8})?|\1?v=${V}|" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add starry-contributions.svg README.md
+          git commit -m "Regenerate starry contributions (v=${V})"
+          git push
