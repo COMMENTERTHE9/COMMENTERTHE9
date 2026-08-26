@@ -162,7 +162,8 @@
 <circle cx="714.4" cy="49.3" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="1.8s" begin="1.2s" repeatCount="indefinite"/></circle>
 <circle cx="717.4" cy="66.8" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.4s" begin="0.7s" repeatCount="indefinite"/></circle>
 <circle cx="719.7" cy="72.7" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.3s" begin="0.2s" repeatCount="indefinite"/></circle>
-<circle cx="712.8" cy="89.4" r="0.5" fill="#c8dfff" opacity="0.21"><animate attributeName="opacity" values="0.21;0.54;0.21" dur="2.9s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="718.8" cy="89.5" r="0.6" fill="#c8dfff" opacity="0.24"><animate attributeName="opacity" values="0.24;0.59;0.24" dur="2.5s" begin="1.0s" repeatCount="indefinite"/></circle>
 <circle cx="723.7" cy="17.6" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.3s" begin="0.1s" repeatCount="indefinite"/></circle>
 <circle cx="731.9" cy="24.4" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.1s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="732.4" cy="39.5" r="1.0" fill="#c8dfff" opacity="0.39"><animate attributeName="opacity" values="0.39;0.82;0.39" dur="3.3s" begin="1.6s" repeatCount="indefinite"/></circle>
 </svg>
