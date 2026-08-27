@@ -95,7 +95,7 @@
 <circle cx="575.9" cy="36.8" r="1.2" fill="#c8dfff" opacity="0.45"><animate attributeName="opacity" values="0.45;0.93;0.45" dur="3.1s" begin="1.8s" repeatCount="indefinite"/></circle>
 <circle cx="575.0" cy="47.1" r="0.8" fill="#c8dfff" opacity="0.33"><animate attributeName="opacity" values="0.33;0.73;0.33" dur="1.9s" begin="1.6s" repeatCount="indefinite"/></circle>
 <circle cx="574.1" cy="77.6" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="3.1s" begin="0.3s" repeatCount="indefinite"/></circle>
-<circle cx="580.1" cy="85.1" r="0.6" fill="#c8dfff" opacity="0.24"><animate attributeName="opacity" values="0.24;0.59;0.24" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="573.1" cy="86.4" r="0.7" fill="#c8dfff" opacity="0.27"><animate attributeName="opacity" values="0.27;0.64;0.27" dur="2.9s" begin="1.5s" repeatCount="indefinite"/></circle>
 <circle cx="593.2" cy="11.0" r="0.7" fill="#c8dfff" opacity="0.27"><animate attributeName="opacity" values="0.27;0.64;0.27" dur="2.0s" begin="2.7s" repeatCount="indefinite"/></circle>
 <circle cx="595.9" cy="27.4" r="0.6" fill="#c8dfff" opacity="0.24"><animate attributeName="opacity" values="0.24;0.59;0.24" dur="1.8s" begin="1.4s" repeatCount="indefinite"/></circle>
 <circle cx="588.2" cy="38.0" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="1.8s" begin="2.3s" repeatCount="indefinite"/></circle>
@@ -166,4 +166,5 @@
 <circle cx="723.7" cy="17.6" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.3s" begin="0.1s" repeatCount="indefinite"/></circle>
 <circle cx="731.9" cy="24.4" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.1s" begin="2.7s" repeatCount="indefinite"/></circle>
 <circle cx="732.4" cy="39.5" r="1.0" fill="#c8dfff" opacity="0.39"><animate attributeName="opacity" values="0.39;0.82;0.39" dur="3.3s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="723.2" cy="47.5" r="1.8" fill="#c8dfff" opacity="0.45" filter="url(#gl)"><animate attributeName="opacity" values="0.45;0.95;0.45" dur="2.0s" begin="1.8s" repeatCount="indefinite"/></circle>
 </svg>
