@@ -137,7 +137,7 @@ Source (.cx)
 
 <div align="center">
 
-![Starry Contributions](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/main/starry-contributions.svg?v=d96352b3)
+![Starry Contributions](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/main/starry-contributions.svg?v=8d4392ad)
 
 </div>
 
