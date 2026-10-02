@@ -201,4 +201,5 @@
 <circle cx="730.8" cy="24.8" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.6s" begin="3.0s" repeatCount="indefinite"/></circle>
 <circle cx="727.8" cy="34.1" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.0s" begin="0.8s" repeatCount="indefinite"/></circle>
 <circle cx="727.7" cy="48.5" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="724.0" cy="60.4" r="0.5" fill="#c8dfff" opacity="0.18"><animate attributeName="opacity" values="0.18;0.50;0.18" dur="2.3s" begin="0.8s" repeatCount="indefinite"/></circle>
 </svg>
