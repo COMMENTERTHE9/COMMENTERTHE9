@@ -11,7 +11,7 @@
 
 ### COMMENTERTHE9
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=0A84FF&center=true&vCenter=true&multiline=true&width=620&height=60&lines=Compiler+engineer.+Language+designer.+Systems+builder.;Cx+%7C+Blaze+%7C+building+in+public." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1200&color=0A84FF&center=true&vCenter=true&multiline=true&width=620&height=60&lines=Compiler+engineer.+Language+designer.+Systems+builder.;Cx+%7C+Blaze+%7C+building+in+public." alt="Compiler engineer. Language designer. Systems builder. Cx | Blaze | building in public." />
 
 <br/>
 
@@ -20,15 +20,9 @@
 
 </div>
 
----
-
 ## What I work on
 
 I build compilers, design languages, and write the infrastructure that other software runs on. Two active projects right now.
-
----
-
-## Active Projects
 
 <table>
 <tr>
@@ -82,8 +76,6 @@ Companion compiler project. Different design goal from Cx — governed world-cha
 </tr>
 </table>
 
----
-
 ## Stack
 
 ```
@@ -93,8 +85,6 @@ CI / automation          →  GitHub Actions
 Infra                    →  DigitalOcean / Cloudflare
 ```
 
----
-
 ## Compiler Architecture (Cx)
 
 ```
@@ -102,7 +92,7 @@ Source (.cx)
     │
     ▼
 ┌──────────────┐    ┌──────────────────┐    ┌───────────────────┐
-│   Frontend   │───▶│   Semantic /     │───▶│   IR Lowering     │
+│   Frontend   │───►│   Semantic /     │───►│   IR Lowering     │
 │              │    │   Type Checker   │    │   (SSA form)      │
 │  Lexer       │    │                  │    │                   │
 │  Parser      │    │  Generic structs │    │  Function calls   │
@@ -121,23 +111,21 @@ Source (.cx)
                                            └───────────────────┘
 ```
 
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=COMMENTERTHE9&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub contribution streak" />
 
 </div>
-
----
 
 ## Contributions
 
 <div align="center">
 
 ![Starry Contributions](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/main/starry-contributions.svg?v=bc32f572)
+
+<sub>One star per active day over the past year. Bigger and brighter means more contributions. Redrawn daily by <a href="https://github.com/COMMENTERTHE9/COMMENTERTHE9/blob/main/scripts/generate_starry.py">a small script</a>.</sub>
 
 </div>
 
