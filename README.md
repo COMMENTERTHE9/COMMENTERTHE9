@@ -123,7 +123,7 @@ Source (.cx)
 
 <div align="center">
 
-![Starry Contributions](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/main/starry-contributions.svg?v=100f15b6)
+![Starry Contributions](https://raw.githubusercontent.com/COMMENTERTHE9/COMMENTERTHE9/main/starry-contributions.svg?v=2f138bbf)
 
 <sub>One star per active day over the past year. Bigger and brighter means more contributions. Redrawn daily by <a href="https://github.com/COMMENTERTHE9/COMMENTERTHE9/blob/main/scripts/generate_starry.py">a small script</a>.</sub>
 
